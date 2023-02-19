@@ -1,5 +1,5 @@
 {
-  "name": "generateusername",
+  "name": "@nileshkr17/generateusername",
   "version": "1.0.0",
   "description": "User can input Name,Surname & DateOfBirth and the package will generate 5 possible username.",
   "main": "index.js",
@@ -13,9 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/nileshkr17/input-username-gen.git"
   },
-  "keywords": [
-    "nileshkr17"
-  ],
   "author": "Nilesh",
   "license": "ISC",
   "bugs": {
