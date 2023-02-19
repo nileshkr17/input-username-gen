@@ -1,6 +1,6 @@
 {
   "name": "@nileshkr17/generateusername",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "User can input Name,Surname & DateOfBirth and the package will generate 5 possible username.",
   "main": "index.js",
   "directories": {
