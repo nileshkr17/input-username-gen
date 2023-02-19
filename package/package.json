@@ -1,5 +1,5 @@
 {
-  "name": "input-username-gen",
+  "name": "generateusername",
   "version": "1.0.0",
   "description": "User can input Name,Surname & DateOfBirth and the package will generate 5 possible username.",
   "main": "index.js",
